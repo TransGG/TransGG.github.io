@@ -12,16 +12,19 @@
     <div class="bush-left-overlay"></div>
     <div class="bush-right-overlay"></div>
 
-    <object class="svg-top" type="image/svg+xml" data="./assets/svg/top.svg"></object>
+    <canvas class="canvas-overlay "></canvas>
+
     <section class="container blur" onmouseover="parallaxStart()" onmouseout="parallaxEnd()">
         <h1>TransPlace</h1>
-        <p>A community and safe space to talk about gaming, art, and more, while being you.</p>
+        <h2>/ˈtrænspleɪs/</h2>
+
+        <p>noun</p>
+        <p class="indent">A community and safe space to talk about gaming, art, and more, while being you.</p>
         <div>
             <a href="https://discord.gg/TransPlace" class="image-button discord"
                 onmouseover="changeContainerColor('rgba(65, 71, 140, 0.75)')"
                 onmouseout="changeContainerColor('#a789a8a2')">
-                <img src="./assets/icon/discord.jpg"
-                    alt="Icon" class="button-icon">
+                <img src="./assets/icon/discord.jpg" alt="Icon" class="button-icon">
                 Join our Discord!
             </a>
             <a href="https://rvlt.gg/your-revolt-lin" class="image-button revolt"
@@ -35,13 +38,13 @@
             <a href="https://discord.gg/TransPlace" class="image-button reddit"
                 onmouseover="changeContainerColor('rgba(135, 59, 32, 0.75)')"
                 onmouseout="changeContainerColor('#a789a8a2')">
-                <img src="./assets/icon/reddit.png"
-                    alt="Icon" class="button-icon">
+                <img src="./assets/icon/reddit.png" alt="Icon" class="button-icon">
                 Join our Reddit!
             </a>
         </div>
     </section>
     <script src="./js/script.js"></script>
+    <script src="./js/canvas.js"></script>
 </body>
 
 </html>
