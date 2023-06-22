@@ -112,7 +112,7 @@ h1 {
 }
 
 h2 {
-  margin-top: -30px;
+  margin-top: -35px;
   font-family: "Poppins", "San Francisco", sans-serif;
   font-weight: 500;
   color: rgb(236, 236, 236);
@@ -121,7 +121,7 @@ h2 {
 }
 
 p {
-  margin-top: -10px; /* Adjust the margin as needed */
+  margin-top: -20px; /* Adjust the margin as needed */
   padding-bottom: 7px;
   font-family: "Poppins", "San Francisco", sans-serif;
   color: rgb(236, 236, 236);
@@ -130,6 +130,7 @@ p {
 }
 
 p.indent {
+  margin-top: -10px;
   margin-left: 25px;
 }
 
