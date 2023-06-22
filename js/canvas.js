@@ -2,20 +2,19 @@ const canvas = document.querySelector("canvas");
 const ctx = canvas.getContext("2d");
 
 let amplitud = 10;
-let speed = 0.01;
+let speed = 0.025;
 let points = [];
 
-let cw = (canvas.width = 1000),
+let cw = (canvas.width = 1500),
   cx = cw / 2;
-let ch = (canvas.height = 1000),
+let ch = (canvas.height = 1500),
   cy = ch / 2;
-ctx.fillStyle = "#a789a8a2";
+ctx.fillStyle = "#ffffff";
 ctx.strokeStyle = "transparent";
-
 
 let corners = [];
 let n = 15;
-let r = cx - amplitud;
+let r = cx - amplitud - 100;
 for (var i = 0; i < n; i++) {
   corners.push([
     cx + r * Math.cos((2 * Math.PI * i) / n),
