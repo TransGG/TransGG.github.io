@@ -142,6 +142,7 @@ p {
 
   h1 {
     font-size: 30px;
+    text-shadow: none;
   }
 
   p {
