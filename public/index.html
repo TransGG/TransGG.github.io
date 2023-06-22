@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Trans.gg</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+    <div class="background-overlay"></div>
+    <div class="bush-left-overlay"></div>
+    <div class="bush-right-overlay"></div>
+
+    <object class="svg-top" type="image/svg+xml" data="./assets/svg/top.svg"></object>
+    <section class="container blur" onmouseover="parallaxStart()" onmouseout="parallaxEnd()">
+        <h1>TransPlace</h1>
+        <p>A community and safe space to talk about gaming, art, and more, while being you.</p>
+        <div>
+            <a href="https://discord.gg/TransPlace" class="image-button discord"
+                onmouseover="changeContainerColor('rgba(65, 71, 140, 0.75)')"
+                onmouseout="changeContainerColor('#a789a8a2')">
+                <img src="./assets/icon/discord.jpg"
+                    alt="Icon" class="button-icon">
+                Join our Discord!
+            </a>
+            <a href="https://rvlt.gg/your-revolt-lin" class="image-button revolt"
+                onmouseover="changeContainerColor('rgba(135, 61, 66, 0.75)')"
+                onmouseout="changeContainerColor('#a789a8a2')">
+                <img src="./assets/icon/revolt.png" alt="Icon" class="button-icon">
+                Join our Revolt!
+            </a>
+        </div>
+        <div>
+            <a href="https://discord.gg/TransPlace" class="image-button reddit"
+                onmouseover="changeContainerColor('rgba(135, 59, 32, 0.75)')"
+                onmouseout="changeContainerColor('#a789a8a2')">
+                <img src="./assets/icon/reddit.png"
+                    alt="Icon" class="button-icon">
+                Join our Reddit!
+            </a>
+        </div>
+    </section>
+    <script src="./js/script.js"></script>
+</body>
+
+</html>
