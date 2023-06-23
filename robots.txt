@@ -2,3 +2,5 @@ User-agent: *
 Disallow: /css/
 Disallow: /js/
 Disallow: /assets/
+
+Sitemap: https://trans.gg/sitemap.xml
