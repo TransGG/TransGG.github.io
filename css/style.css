@@ -157,9 +157,9 @@ body {
 }
 
 h1 {
-  font-weight: 600;
   margin-top: 0;
   font-family: "Poppins", "San Francisco", sans-serif;
+  font-weight: 600;
   color: rgb(236, 236, 236);
   text-shadow: 0 0 10px rgba(43, 43, 43, 0.5);
   font-size: 40px;
@@ -175,10 +175,10 @@ h2 {
 }
 
 p {
-  font-weight: 400;
   margin-top: -20px; /* Adjust the margin as needed */
   padding-bottom: 7px;
   font-family: "Poppins", "San Francisco", sans-serif;
+  font-weight: 400;
   color: rgb(236, 236, 236);
   text-shadow: 0 0 10px rgba(43, 43, 43, 0.5);
   font-size: 17px;
