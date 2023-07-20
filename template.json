@@ -19,6 +19,10 @@
     {
       "name": "Outer Wilds",
       "url": "https://raw.githubusercontent.com/souleaub/TGR_Overlay/main/outer_wilds.json"
+    },
+    {
+      "name": "YTTD",
+      "url": "https://rentry.co/yttdgang2/raw"
     }
   ],
   "blacklist": []
