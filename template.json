@@ -15,6 +15,10 @@
     {
       "name": "r/PlacePride",
       "url": "https://pride.place/template.json"
+    },
+    {
+      "name": "Outer Wilds",
+      "url": "https://raw.githubusercontent.com/souleaub/TGR_Overlay/main/outer_wilds.json"
     }
   ],
   "blacklist": []
