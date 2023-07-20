@@ -23,7 +23,11 @@
     {
       "name": "YTTD",
       "url": "https://rentry.co/yttdgang2/raw"
-    }
+    },
+    {
+      "name": "Tally Hall",
+      "url": "https://raw.githubusercontent.com/TransPlace-Devs/rplace-tallyhall/production/tallyhall.json"
+    },
   ],
   "blacklist": []
 }
