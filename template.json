@@ -5,7 +5,7 @@
     {
       "name": "First Trans Flag",
       "sources": [
-        "https://i.imgur.com/UlazaI3.png"
+        "https://i.imgur.com/B8i81xx.png"
       ],
       "x": 1048,
       "y": 497
@@ -51,6 +51,10 @@
     {
       "name": "eighty six",
       "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/86Place.json"
+    },
+    {
+      "name": "Celeste",
+      "url": "https://raw.githubusercontent.com/GabRioBlu/place2023celeste/main/template.json"
     }
   ],
   "blacklist": []
