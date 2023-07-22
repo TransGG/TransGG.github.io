@@ -35,6 +35,10 @@
     {
       "name": "SeverslvtEvents",
       "url": "https://rentry.co/SewerslvtEvents/raw"
+    },
+    {
+      "name": "Echoplace",
+      "url": "https://raw.githubusercontent.com/DancingNerd/echoplace/main/echoplace.json"
     }
   ],
   "blacklist": []
