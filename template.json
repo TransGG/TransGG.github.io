@@ -3,15 +3,15 @@
   "notifications": "https://broadcaster.trans.gg",
   "templates": [
     {
-      "name": "TransPlace Starter",
+      "name": "First Trans Flag",
       "sources": [
-        "https://i.imgur.com/h2uE746.png"
+        "https://i.imgur.com/UlazaI3.png"
       ],
       "x": 1048,
       "y": 497
     },
     {
-      "name": "Second Flag",
+      "name": "Second Trans Flag",
       "sources": [
         "https://i.imgur.com/h1asypq.png"
       ],
