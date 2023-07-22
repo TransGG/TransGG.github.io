@@ -9,6 +9,14 @@
       ],
       "x": 1048,
       "y": 497
+    },
+    {
+      "name": "Second Flag",
+      "sources": [
+        "https://i.imgur.com/sbRI32B.png"
+      ],
+      "x": 132,
+      "y": 366
     }
   ],
   "whitelist": [
