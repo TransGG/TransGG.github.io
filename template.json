@@ -39,6 +39,10 @@
     {
       "name": "Echoplace",
       "url": "https://raw.githubusercontent.com/DancingNerd/echoplace/main/echoplace.json"
+    },
+    {
+      "name": "eighty six",
+      "url": "https://rentry.co/86Place2023/raw"
     }
   ],
   "blacklist": []
