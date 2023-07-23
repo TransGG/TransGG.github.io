@@ -59,7 +59,11 @@
     {
       "name": "Chibi",
       "url": "https://rentry.co/SDRA2Sora/raw"
-    }   
+    },
+    {
+      "name": "Furryirl",
+      "url": "https://gist.githubusercontent.com/Furryirlburner1/09ce4195fada18db6dc5e32e30a8e34b/raw"
+    }
   ],
   "blacklist": []
 }
