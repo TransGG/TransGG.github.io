@@ -13,10 +13,18 @@
     {
       "name": "Second Trans Flag",
       "sources": [
-        "https://i.imgur.com/duYwygK.png"
+        "https://i.imgur.com/ejdjTWB.png"
       ],
       "x": 864,
       "y": 816
+    },
+    {
+      "name": "Barcode trans pikmin",
+      "sources": [
+        "https://i.imgur.com/cr5sR9c.png"
+      ],
+      "x": 557,
+      "y": 1767
     }
   ],
   "whitelist": [
