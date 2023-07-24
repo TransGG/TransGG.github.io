@@ -67,6 +67,10 @@
     {
       "name": "DutchGekte",
       "url": "https://cdn.discordapp.com/attachments/982274631538987078/1132727141595881602/gekteDutch.json"
+    },
+    {
+      "name": "One Piece",
+      "url": "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/oneplace-template.json"
     }
   ],
   "blacklist": []
