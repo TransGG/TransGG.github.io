@@ -107,6 +107,7 @@
     {
       "name": "barcode",
       "url": "https://pride.place/barcode.png"
+    }
   ],
   "blacklist": []
 }
