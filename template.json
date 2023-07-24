@@ -95,7 +95,10 @@
     {
       "name": "Anarchy",
       "url": "https://rentry.co/scc3v/raw"
-    }
+    },
+    {
+      "name": "barcode",
+      "url": "https://pride.place/barcode.png"
   ],
   "blacklist": []
 }
