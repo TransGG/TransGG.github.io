@@ -33,6 +33,14 @@
       ],
       "x": 542,
       "y": 1755
+    },
+    {
+      "name": "barcode flags",
+      "sources": [
+        "https://pride.place/barcode.png"
+      ],
+      "x": 500,
+      "y": 1754
     }
   ],
   "whitelist": [
