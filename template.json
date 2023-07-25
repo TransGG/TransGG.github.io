@@ -43,6 +43,14 @@
       "y": 1754
     },
     {
+      "name": "r/PlacePride Flag",
+      "sources": [
+        "https://raw.githubusercontent.com/TransPlace-Devs/trans.gg/master/grayscale%20prideplace.png"
+      ],
+      "x": 867,
+      "y": 829
+    },
+    {
       "name": "Whiteout",
       "sources": [
         "https://place.army/default_target.png"
