@@ -41,6 +41,14 @@
       ],
       "x": 500,
       "y": 1754
+    },
+    {
+      "name": "Whiteout",
+      "sources": [
+        "https://place.army/default_target.png"
+      ],
+      "x": 0,
+      "y": 0
     }
   ],
   "whitelist": [
