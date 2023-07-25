@@ -45,7 +45,7 @@
     {
       "name": "Whiteout",
       "sources": [
-        "https://place.army/default_target.png"
+        "https://place.army/default_target.png?cachebust=1"
       ],
       "x": 0,
       "y": 0
