@@ -3,17 +3,17 @@
   "notifications": "https://broadcaster.trans.gg",
   "templates": [
     {
-      "name": "First Trans Flag",
+      "name": "First Trans Flag Grayscaled",
       "sources": [
-        "https://raw.githubusercontent.com/TransPlace-Devs/trans.gg/master/grayscale%20trans%201.png"
+        "https://i.imgur.com/IRfl6TH.png"
       ],
       "x": 1548,
       "y": 997
     },
     {
-      "name": "Second Trans Flag",
+      "name": "Second Trans Flag Grayscaled",
       "sources": [
-        "https://raw.githubusercontent.com/TransPlace-Devs/trans.gg/master/grayscale%20trans%202.png"
+        "https://i.imgur.com/TNw7fGE.png"
       ],
       "x": 864,
       "y": 816
