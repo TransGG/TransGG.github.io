@@ -109,8 +109,8 @@ body {
   background-color: #5865f2;
 }
 
-.revolt {
-  background-color: rgb(255, 70, 84);
+.stoat {
+  background-color: #282038;
 }
 
 .reddit {
@@ -175,7 +175,7 @@ h2 {
 }
 
 p {
-  margin-top: -20px; /* Adjust the margin as needed */
+  margin-top: -20px;
   padding-bottom: 7px;
   font-family: "Poppins", "San Francisco", sans-serif;
   font-weight: 400;
@@ -223,7 +223,7 @@ p.indent {
     padding: 10px;
   }
 
-  .revolt {
+  .stoat {
     padding: 10px;
   }
 
